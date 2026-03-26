@@ -49,12 +49,12 @@
 
 ```sh
 ██████████████████████████████████████████████████████████████████
-█                                                                ██
-█   CONNECTION ESTABLISHED — ENCRYPTED TUNNEL ACTIVE             ██
-█   OPERATOR  : Muhammad Usman  |  CALLSIGN : mutraders          ██
-█   NODE      : ghost.mutraders.net  |  REGION: UNDISCLOSED      ██
-█   CLEARANCE : ██████  [CLASSIFIED]                             ██
-█                                                                ██
+██                                                              ██
+██  CONNECTION ESTABLISHED — ENCRYPTED TUNNEL ACTIVE            ██
+██  OPERATOR  : Muhammad Usman  |  CALLSIGN : mutraders         ██
+██  NODE      : ghost.mutraders.net  |  REGION: UNDISCLOSED     ██
+██  CLEARANCE : ██████  [CLASSIFIED]                            ██
+██                                                              ██
 ██████████████████████████████████████████████████████████████████
 
 root@mutraders:~# whoami --verbose --no-redact
